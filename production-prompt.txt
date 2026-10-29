@@ -1,0 +1,20 @@
+Use case: illustration-story
+Asset: one finished square Halloween comic for the poidh CC0 Halloween bounty, with exactly four panels in a clear 2 by 2 grid. Make the lettering readable at phone size and the comic visually polished enough for print.
+
+Title, above the panels: FIRST NIGHT
+
+Reference images: image 1 is the official CC0 Nouns pumpkin head, image 2 is the official CC0 Nouns pale-blue ghost head, image 3 is the official CC0 red square Noggles. These are character-design references, not photographs to edit. Create a new illustrated comic using recognizable adaptations of these two Nouns characters. Both characters wear the iconic red square Noggles. Keep each character's head, glasses, colors and clothing consistent throughout. Pumpkin Noun has a blocky orange pumpkin head with its short green stem, red Noggles, a simple charcoal body and hands. Ghost Noun has the distinctive pale-blue swept-up ghost head from reference 2, red Noggles and a soft blue-gray ghost body. Only these two characters appear.
+
+Style: original editorial storybook comic, tactile screenprint and cut-paper texture, bold geometric silhouettes that retain the Nouns pixel-art character language, careful cinematic compositions, deep ink-blue and plum shadows, pumpkin orange, pale blue and warm candlelight, ivory gutters and speech bubbles, expressive body language. Spooky and gently funny, with a warm deadpan ending. Detailed atmospheric old-house setting without clutter. No third-party movie, TV, game or non-CC0 characters. No watermarks or artist imitation.
+
+Reading order: upper left, upper right, lower left, lower right. Four sequential moments in the same creaky hallway at night. A single hand-held candle belongs to Pumpkin Noun. Its position and the two characters' identities remain clear across panels.
+
+Panel 1: Pumpkin Noun walks confidently into a dark old hallway, holding the lit candle in one hand. Warm flame lights the pumpkin face and red Noggles; cold moonlight falls through an old arched window. Ghost Noun is not yet visible. One speech bubble from Pumpkin Noun, exact text: "I don't believe in ghosts."
+
+Panel 2: Pale-blue Ghost Noun suddenly pops out from beside an old doorway, attempting its first scare. It wears the same red Noggles. Pumpkin Noun recoils in surprise while still holding the same burning candle. One speech bubble with its tail clearly pointing to Ghost Noun, exact text: "BOO!"
+
+Panel 3: Pumpkin Noun's startled puff of breath accidentally blows out the candle it holds. Show one little breath swoosh toward the wick, the extinguished wick and curling smoke. The hallway is now almost dark, lit only by faint blue moonlight, with both characters' shapes and red Noggles still readable. Their awkward, frozen poses sell the comic pause. The only text is the small sound effect: "PFF!"
+
+Panel 4: In a closer warm composition, embarrassed Ghost Noun carefully uses a lit wooden match to relight Pumpkin Noun's candle. Pumpkin Noun holds the candle steady and looks bemused; Ghost Noun's posture is shy and apologetic. The candle is visibly burning again. A single speech bubble with the tail unambiguously pointing to Ghost Noun, exact text: "Sorry. First night."
+
+Constraints: exactly four panels; no inset panels; exactly the dialogue specified, accurately spelled; no explanatory captions or extra jokes; no other characters; no arbitrary UI or NFT trading graphics; keep all important artwork and lettering within safe margins. Let visual timing and lighting explain the joke. Produce a single finished image with an opaque background.
